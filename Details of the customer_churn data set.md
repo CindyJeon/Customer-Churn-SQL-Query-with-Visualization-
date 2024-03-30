@@ -110,5 +110,3 @@ No.	Questions
 6	The relationship between Marital status&product category and churn
 7	The relationship of Churn and DaySinceLastOrder
 8	The relationship of Churn and warehouse to house?
-
-![image](https://github.com/CindyJeon/ecommerce/assets/157195682/f5e30197-eb90-4cb2-a765-efa068121150)
