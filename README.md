@@ -22,7 +22,7 @@ variables. The goal is to gain insights into the complex relationships within th
 elements and their potential impact on overall outcomes.
 Based on each table category, I would ask 8 business questions below.
  
-**No.	Questions**
+**[No.	Questions]**
 
 1.	The relationship between Churn and complain / satisfaction level
 2.	The relationship between tenure & Churn status
