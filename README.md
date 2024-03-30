@@ -24,18 +24,11 @@ Based on each table category, I would ask 8 business questions below.
  
 **No.	Questions**
 
-1	The relationship between Churn and complain / satisfaction level
-
-2	The relationship between tenure & Churn status
-
-3	The relationship between tenure & customer satisfaction
-
-4	The relationship between preferred order category and Churn
-
-5	The relationship between Marital status and churn
-
-6	The relationship between Marital status&product category and churn
-
-7	The relationship of Churn and DaySinceLastOrder
-
-8	The relationship of Churn and warehouse to house?
+1.	The relationship between Churn and complain / satisfaction level
+2.	The relationship between tenure & Churn status
+3.	The relationship between tenure & customer satisfaction
+4.	The relationship between preferred order category and Churn
+5.	The relationship between Marital status and churn
+6.	The relationship between Marital status&product category and churn
+7.	The relationship of Churn and DaySinceLastOrder
+8.	The relationship of Churn and warehouse to house?
