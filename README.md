@@ -10,7 +10,8 @@ This dataset focuses on customer churn within an ecommerce company. By analyzing
 My goal is to identify specific customer behaviors that signal a likelihood of churn. By understanding these patterns, we can proactively address potential churn, implementing strategies to retain customers before they discontinue their engagement with the company.
 Additionally, through analysis, I aim to uncover the customer behaviors strongly correlated with high sales. These insights will empower companies to optimize their strategies, fostering an environment that not only prevents churn but also strategically boosts overall sales.
 
-****3.	The list of business questions. ****
+
+**3.	The list of business questions**
 
 There are 8 business questions that I would like to figure out through this dataset.
 In general, I would like to find out what factors influence on the churn.
