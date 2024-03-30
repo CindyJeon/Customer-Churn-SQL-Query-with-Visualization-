@@ -1,5 +1,5 @@
 
-E-Commerce Customer Churn
+**[ E-Commerce Customer Churn ]**
 
 **1.	Introduction**
 This dataset focuses on customer churn within an ecommerce company. By analyzing this data, I intend to identify patterns in customer behavior that reveal whether they are likely to churn or remain engaged.
