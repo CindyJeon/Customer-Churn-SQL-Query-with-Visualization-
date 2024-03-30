@@ -1,14 +1,7 @@
 
-**[ E-Commerce Customer Churn ]**
+**[ E-Commerce Customer Churn Data Set Explanation]**
 
-**1.	Introduction**
-This dataset focuses on customer churn within an ecommerce company. By analyzing this data, I intend to identify patterns in customer behavior that reveal whether they are likely to churn or remain engaged.
-
-**2.	Goals**
-My goal is to identify specific customer behaviors that signal a likelihood of churn. By understanding these patterns, we can proactively address potential churn, implementing strategies to retain customers before they discontinue their engagement with the company.
-Additionally, through analysis, I aim to uncover the customer behaviors strongly correlated with high sales. These insights will empower companies to optimize their strategies, fostering an environment that not only prevents churn but also strategically boosts overall sales.
-
-**3.	Discussion of how you converted the dataset into tables. **
+**1.	Discussion of how I converted the dataset into tables. **
 I structured database by creating seven tables to capture different aspects of my data. The tables and the characteristics of the tables are as below.
 This structure will allow for a comprehensive representation of the dataset, enabling me to analyze different dimensions of customer behavior and business performance. The relationships between these tables, established through keys, will be essential for querying and gaining insights across the various aspects of the data. 
 
@@ -30,7 +23,8 @@ This structure will allow for a comprehensive representation of the dataset, ena
 7). Payment Information Table
    - Contains data related to payment methods preferred by customers, coupon usage, and cashback received with purchases.
 
-**4.	Challenges faced during importing of your data and how did you overcome these data importation challenges. **
+****2.	Challenges faced during importing of the data and how I overcome these data importation challenges. ****
+
 1)	Data type error when importing to SQL
 -	First of all, my computer is mac, so I had to change xlxs. file to JSON type. However, when I converted the file type to JSON, the data were transferred to the empty cells, resulting in the data being corrupted. It turned out that I had many cells without data.
 2)	Dealing with missing values
@@ -45,7 +39,7 @@ This structure will allow for a comprehensive representation of the dataset, ena
 4)	Issues with selecting primary keys
 -	Although the primary key is expected to be a unique identifier, I initially overlooked this requirement, resulting in the selecting of columns that lacked this uniqueness attribute. Consequently, I encountered difficulties storing data in the tables I had created. To fix this issue, I modified the primary keys to the unique identifier criterion, specifically using 'CustomerID' in certain tables. This adjustment successfully resolved the problem. Additionally, I learned that I could create new columns as primary keys and that I can assign numerical values to it. This experience was very intriguing yet vital lesson in managing SQL tables. 
 
-**5.	A complete data dictionary for every table in your database**. 
+**3.	A complete data dictionary for every table in your database**. 
 1)	Customer table
 Key	Variable	Data type	Discerption
 PK	CustomerID	INT	Unique customer ID
@@ -91,22 +85,3 @@ FK1	CustomerID	INT	Unique customer ID
  	CashbackAmount	INT	Average cashback in last month
 
 
-**6.	The list of business questions. **
-There are 8 business questions that I would like to figure out through this dataset.
-In general, I would like to find out what factors influence on the churn.
-I plan to conduct a thorough analysis to explore the interconnections between 
-satisfaction, complaints, location, marital status, and churn in the dataset. Additionally, I 
-will examine how these factors relate to order status, incorporating other relevant 
-variables. The goal is to gain insights into the complex relationships within these 
-elements and their potential impact on overall outcomes.
-Based on each table category, I would ask 8 business questions below.
- 
-No.	Questions
-1	The relationship between Churn and complain / satisfaction level
-2	The relationship between tenure & Churn status
-3	The relationship between tenure & customer satisfaction
-4	The relationship between preferred order category and Churn
-5	The relationship between Marital status and churn
-6	The relationship between Marital status&product category and churn
-7	The relationship of Churn and DaySinceLastOrder
-8	The relationship of Churn and warehouse to house?
