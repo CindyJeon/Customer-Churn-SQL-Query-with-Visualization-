@@ -25,6 +25,7 @@ Based on each table category, I would ask 8 business questions below.
 **No.	Questions**
 
 1	The relationship between Churn and complain / satisfaction level
+
 2	The relationship between tenure & Churn status
 3	The relationship between tenure & customer satisfaction
 4	The relationship between preferred order category and Churn
