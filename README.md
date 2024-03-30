@@ -32,3 +32,5 @@ Based on each table category, I would ask 8 business questions below.
 6.	The relationship between Marital status&product category and churn
 7.	The relationship of Churn and DaySinceLastOrder
 8.	The relationship of Churn and warehouse to house?
+
+https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction/data
