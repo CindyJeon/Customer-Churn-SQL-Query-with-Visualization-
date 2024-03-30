@@ -2,9 +2,11 @@
 
 
 **1.	Introduction**
+
 This dataset focuses on customer churn within an ecommerce company. By analyzing this data, I intend to identify patterns in customer behavior that reveal whether they are likely to churn or remain engaged.
 
 **2.	Goals**
+
 My goal is to identify specific customer behaviors that signal a likelihood of churn. By understanding these patterns, we can proactively address potential churn, implementing strategies to retain customers before they discontinue their engagement with the company.
 Additionally, through analysis, I aim to uncover the customer behaviors strongly correlated with high sales. These insights will empower companies to optimize their strategies, fostering an environment that not only prevents churn but also strategically boosts overall sales.
 
